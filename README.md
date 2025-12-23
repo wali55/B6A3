@@ -1,7 +1,5 @@
 # Vehicle Rental System - Database Design & SQL Queries
 
----
-
 ### Users Table
 Users table is created with the necessary information. There can be 2 types of users: 'Admin' and 'Customer'.
 
